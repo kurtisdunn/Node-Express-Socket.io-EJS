@@ -14,6 +14,7 @@ In the Front...
 - **Require.js** - Async resource loading.
 - **Underscore.js** - A whole mess of useful functional programming helpers.
 - **jQuery** - New Wave JavaScript
+- **EJS** - Embeded JavaScript Templates
 - **Twitter Bootstrap 4** - HTML, CSS, and JavaScript framework for developing responsive, mobile first projects.
 
 Get it going..
