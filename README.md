@@ -1,6 +1,6 @@
 # Node Express Socket.io Stack
 
-** PLEASE NOTE - This uses Twitter Bootstrap 4 ALPHA and is not for pruduction**
+** PLEASE NOTE - This uses Twitter Bootstrap 4 ALPHA and is not for production
 
 In the Back...
 
