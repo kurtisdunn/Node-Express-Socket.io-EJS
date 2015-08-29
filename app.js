@@ -49,7 +49,6 @@ app.set('view engine', 'ejs');
  * Routes
  */
 
-var users = ['Kurt'];
 
 // Index Page
 app.get('/', function(request, response, next) {
